@@ -1,0 +1,7 @@
+# Python generated files.
+*.pyc
+*.pyo
+__pycache__/
+
+# IDEs
+.idea/
