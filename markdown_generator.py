@@ -53,5 +53,6 @@ class MarkdownGenerator:
             for park in park_list[state]:
                 self.insert_line_link(park, park_list[state][park]['website'])
                 if 'Mexico' in park: # Add translation disclaimer for Mexico.
+                    self.insert_newline()
                     self.insert_line("Please note that the bottom table was pulled directly from the above website untranslated.")
                 self.insert_season_pass_table(park_list[state][park])

@@ -240,6 +240,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 
 #### Mexico
 **[Six Flags Mexico, Mexico City](https://www.sixflags.com.mx/es/mexico)**
+
 Please note that the bottom table was pulled directly from the above website untranslated.
 | Season Pass | Price |
 | ------------| ----- |
