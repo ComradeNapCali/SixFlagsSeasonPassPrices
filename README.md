@@ -4,7 +4,9 @@
 
 **Disclaimer: The repository maintainers are not affiliated or endorsed by Six Flags.**
 
-**If you are here just to look at the table, click here.**
+**[If you are here just to look at the table, click here.](https://github.com/ComradeNapCali/SixFlagsSeasonPassPrices#full-table)**
+
+------
 
 Six Flags is a chain of amusement parks and water parks that mainly operate throughout the continental United States.
 
