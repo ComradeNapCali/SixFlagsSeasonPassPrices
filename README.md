@@ -49,6 +49,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $62.99/ea |
 | VIP Experiences | As Low As $299.99/ea |
 | Group Discount Tickets | As Low As $34.95/ea |
+
 **[Six Flags Magic Mountain, Los Angeles](https://www.sixflags.com/magicMountain)**
 | Season Pass | Price |
 | ------------| ----- |
@@ -62,6 +63,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Child Any Day Ticket |  $59.99/ea |
 | VIP Experiences | As Low As $399.99/ea |
 | Group Discount Tickets | As Low As $49.99/ea |
+
 #### Georgia
 **[Six Flags Over Georgia, Atlanta](https://www.sixflags.com/overGeorgia)**
 | Season Pass | Price |
@@ -75,6 +77,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $55.00/ea |
 | VIP Experiences | As Low As $199.99/ea |
 | Group Discount Tickets | As Low As $36.99/ea |
+
 #### Illinois
 **[Six Flags Great America, Chicago](https://www.sixflags.com/greatAmerica)**
 | Season Pass | Price |
@@ -89,6 +92,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $69.99/ea |
 | VIP Experiences | As Low As $199.99/ea |
 | Group Discount Tickets | As Low As $39.99/ea |
+
 #### Maryland
 **[Six Flags America, Baltimore/Washington, DC](https://www.sixflags.com/america)**
 | Season Pass | Price |
@@ -104,6 +108,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $52.99/ea |
 | VIP Experiences | As Low As $149.99/ea |
 | Group Discount Tickets | As Low As $34.86/ea |
+
 #### Massachusetts
 **[Six Flags New England](https://www.sixflags.com/newEngland)**
 | Season Pass | Price |
@@ -118,6 +123,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $63.99/ea |
 | VIP Experiences | As Low As $179.99/ea |
 | Group Discount Tickets | As Low As $48.50/ea |
+
 #### Missouri
 **[Six Flags St. Louis](https://www.sixflags.com/stLouis)**
 | Season Pass | Price |
@@ -133,6 +139,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $55.99/ea |
 | VIP Experiences | As Low As $199.99/ea |
 | Group Discount Tickets | As Low As $35.99/ea |
+
 #### New Jersey
 **[Six Flags Great Adventure, Jackson](https://www.sixflags.com/greatAdventure)**
 | Season Pass | Price |
@@ -148,6 +155,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $84.00/ea |
 | VIP Experiences | As Low As $109.99/ea |
 | Group Discount Tickets | As Low As $33.99/ea |
+
 #### New York
 **[Great Escape, Lake George](https://www.sixflags.com/greatEscape)**
 | Season Pass | Price |
@@ -162,6 +170,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $55.99/ea |
 | VIP Experiences | As Low As $99.99/ea |
 | Group Discount Tickets | As Low As $41.99/ea |
+
 **[Six Flags Darien Lake, Buffalo, NY](https://www.sixflags.com/darienlake)**
 | Season Pass | Price |
 | ------------| ----- |
@@ -173,6 +182,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | 2-Park Gold Season Pass | As Low As $78.99/ea \| 4+ Passes for $78.99/ea \| 1-3 Passes for $88.99/ea |
 | 2020 Season Pass | Now Only $73.99/ea |
 | Unknown |  Now Only $59.99/ea |
+
 #### Oklahoma
 **[Frontier City, Oklahoma City](https://www.sixflags.com/frontiercity)**
 | Season Pass | Price |
@@ -185,6 +195,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Discount Pick Your Date Ticket | As Low As $49.00/ea |
 | Any Day Ticket |  $46.99/ea |
 | Group Discount Tickets | As Low As $22.99/ea |
+
 #### Texas
 **[Six Flags Fiesta Texas, San Antonio](https://www.sixflags.com/fiestaTexas)**
 | Season Pass | Price |
@@ -199,6 +210,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $64.99/ea |
 | VIP Experiences | As Low As $199.99/ea |
 | Group Discount Tickets | As Low As $35.99/ea |
+
 **[Six Flags Over Texas, Arlington - between Dallas and Ft. Worth](https://www.sixflags.com/overTexas)**
 | Season Pass | Price |
 | ------------| ----- |
@@ -211,6 +223,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | Any Day Ticket |  $64.99/ea |
 | VIP Experiences | As Low As $199.99/ea |
 | Group Discount Tickets | As Low As $38.50/ea |
+
 #### Canada
 **[La Ronde, Montreal](https://www.sixflags.com/larondeen)**
 | Season Pass | Price |
@@ -222,6 +235,7 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 | 2020 Basic Dining Pass |  Now Only $8.12/mo |
 | 2020 Gold Season THE FLASH Pass | Now Only $18.87/mo |
 | 2020 Platinum Season THE FLASH Pass | Now Only $31.37/mo |
+
 #### Mexico
 **[Six Flags Mexico, Mexico City](https://www.sixflags.com.mx/es/mexico)**
 Please note that the bottom table was pulled directly from the above website untranslated.
@@ -231,3 +245,4 @@ Please note that the bottom table was pulled directly from the above website unt
 | Unknown | Ahora por sólo  $999.00c/u |
 | Pase Anual Combo | Sólo hoy $959.00c/u |
 | Pase Anual Regular 2020 (1 Pase) | Sólo hoy $729.00c/u |
+

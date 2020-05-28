@@ -19,7 +19,7 @@ class MarkdownGenerator:
     def insert_line(self, text):
         self.markdown_file.write(text + "\n")
 
-    def insert_newline(self, text):
+    def insert_newline(self):
         self.markdown_file.write("\n")
 
     def insert_state_header(self, state_name):
@@ -41,6 +41,7 @@ class MarkdownGenerator:
                     season_pass_price.append(f"{price} {season_pass_list[season_pass][price]}")
                 season_pass_price = ' \| '.join(season_pass_price)
                 self.insert_line(f"| {season_pass} | {season_pass_price} |")
+        self.insert_newline()
 
 
     def handle_list(self, park_list):
