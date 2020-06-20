@@ -1,4 +1,4 @@
-import requests_html
+import requests
 import bs4
 from markdown_generator import MarkdownGenerator
 
@@ -9,7 +9,6 @@ SIX_FLAGS_PARKS = {}
 SIX_FLAGS_WEBSITE = "https://www.sixflags.com"
 SIX_FLAGS_SEASON_PASS_PAGE = "/store/season-passes"
 
-requests = requests_html.HTMLSession()
 six_flags_code = requests.get(SIX_FLAGS_WEBSITE, headers=HEADERS).content
 six_flags_parser = bs4.BeautifulSoup(six_flags_code, 'html.parser')
 parks = six_flags_parser.find_all(class_='choose-your-park')[0]
@@ -40,10 +39,7 @@ for state in SIX_FLAGS_PARKS:
     for park in state_parks:
         website = state_parks[park]['website']
         season_pass_page = website + SIX_FLAGS_SEASON_PASS_PAGE
-        requests = requests_html.HTMLSession()
-        season_pass_code = requests.get(season_pass_page, headers=HEADERS)
-        season_pass_code.html.render() # The prices are changed by JavaScript on the website, so we need to use this function.
-        season_pass_code = season_pass_code.html.html
+        season_pass_code = requests.get(season_pass_page, headers=HEADERS).content
         season_pass_parser = bs4.BeautifulSoup(season_pass_code, 'html.parser')
         season_pass_blocks = season_pass_parser.find_all(class_='view-content')
         for season_pass_block in season_pass_blocks:
