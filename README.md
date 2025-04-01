@@ -1,3 +1,9 @@
+This repository is long outdated, as Six Flags (now mergered with Cedar Fair) now requires an "All-Park Passport" which is extra. 
+
+This will remain as an public archive for 2020's prices. Nowadays, I would suggest getting a season pass for your home park along with the passport add-on (costs around $200 USD in total).
+
+------
+
 # Six Flags Season Pass Prices
 
 ![Six Flags logo](https://www.sixflags.com/sites/all/themes/sixflags_corp/logo.png)
@@ -244,8 +250,8 @@ Below is the full table, so you can see all of the Six Flags season pass prices.
 Please note that the bottom table was pulled directly from the above website untranslated.
 | Season Pass | Price |
 | ------------| ----- |
-| Pase Anual Combo (2 ó Más)  | Sólo hoy $599.00c/u |
-| Unknown | Ahora por sólo  $999.00c/u |
-| Pase Anual Combo | Sólo hoy $959.00c/u |
-| Pase Anual Regular 2020 (1 Pase) | Sólo hoy $729.00c/u |
+| Pase Anual Combo (2 Ã³ MÃ¡s)  | SÃ³lo hoy $599.00c/u |
+| Unknown | Ahora por sÃ³lo  $999.00c/u |
+| Pase Anual Combo | SÃ³lo hoy $959.00c/u |
+| Pase Anual Regular 2020 (1 Pase) | SÃ³lo hoy $729.00c/u |
 
